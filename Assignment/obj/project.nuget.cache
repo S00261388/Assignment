@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIZyD8AILVm3itvjKWcplzx7S2XwuD15ByOSd0g7UKiswyAsEd5gLPnj2gQqalIOTn6IKkG37PGmfCrVFPv+3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AdamBokobza-STUDENT\\OneDrive - Atlantic TU\\ATU\\Assignment\\Assignment\\Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdamBokobza-STUDENT\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\AdamBokobza-STUDENT\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\AdamBokobza-STUDENT\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\AdamBokobza-STUDENT\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
